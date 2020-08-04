@@ -1,3 +1,3 @@
 # Tic Tac Toe
----
-## This is a project that I started to learn python and git
+
+This is a project that I started to practice python and learn git.
